@@ -1,6 +1,12 @@
 # Hello_World
 Simple code, demonstrating github
 
+## Requirements
+
+Python
+guizero (python module)
+  Installation instructions: pip install guizero
+  paste in terminal -------------^
 
 ## CHANGELOG
 
